@@ -1,16 +1,16 @@
-Dies ist die Datei .../info/dir, die den obersten Knoten der
-Info-Hierarchie enthält, genannt (dir)Top.
-Beim ersten Aufruf von Info geht es bei diesem Knoten los.
+This is the file .../info/dir, which contains the
+topmost node of the Info hierarchy, called (dir)Top.
+The first time you invoke Info you start off looking at this node.
 
-File: dir,	Node: Top	Dies ist der Beginn des INFO-Baums
+File: dir,	Node: Top	This is the top of the INFO tree
 
-  Dieser Verzeichnis-Knoten zeigt ein Menü aller Hauptpunkte an.
-  „q“ beendet Info, „?“ listet alle Info-Befehle auf, „d“ kehrt hierher
-  zurück, „h“ gibt eine Einsteiger-Hilfe, „mEmacs<Return>“ besucht das
-  Emacs-Manual, etc.
+  This (the Directory node) gives a menu of major topics.
+  Typing "q" exits, "?" lists all Info commands, "d" returns here,
+  "h" gives a primer for first-timers,
+  "mEmacs<Return>" visits the Emacs manual, etc.
 
-  Im Emacs kann man mit dem zweiten Mausknopf auf einen Menüeintrag oder
-  einen Querverweis klicken, um einen solchen auswählen.
+  In Emacs, you can click mouse button 2 on a menu item or cross reference
+  to select it.
 
 * Menu:
 
